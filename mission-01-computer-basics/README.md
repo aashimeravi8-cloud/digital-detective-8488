@@ -8,17 +8,19 @@ Understand how a computer receives input, processes information, produces output
 
 ### Task 1.1 — IPOS
 
-Example: Typing and saving a document on my computer.
 
 | Stage | What happens | Hardware / Component |
+| --- | --- | --- |
 | Input | I type text using the keyboard. | Keyboard |
 | Processing | The computer processes the typed information. | CPU and RAM |
 | Output | The document appears on the screen. | Monitor |
 | Storage | I save the document for future use. | SSD |
 
+
 ### Task 1.2 — Hardware and Software
 
 | Item | Hardware or Software? | Software Type | Purpose |
+| --- | --- | --- | --- |
 | Keyboard | Hardware | Not applicable | Used to enter text. |
 | Mouse | Hardware | Not applicable | Used to control the pointer. |
 | Monitor | Hardware | Not applicable | Displays information. |
