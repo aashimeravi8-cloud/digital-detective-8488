@@ -1,4 +1,6 @@
 # The Digital Detective
+
+
 This repository contains my Diwali independent learning assignment, "The Digital Detective". In it, I explore how my computer works by practising Terminal commands, writing small Python programs, and learning how files and programs are managed. I use Git and GitHub to save and publish each mission as I finish it.
 
 ## Mission index
