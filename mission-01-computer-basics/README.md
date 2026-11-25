@@ -32,10 +32,13 @@ Understand how a computer receives input, processes information, produces output
 
 ### Task 1.3 — Computer Systems Around You
 
+
 | System | Main Purpose | One Input | One Output |
+| --- | --- | --- | --- |
 | ATM | Provides banking services. | ATM card | Cash |
 | Traffic Signal | Controls road traffic. | Timer / sensor | Traffic lights |
 | Ticket Machine | Generates tickets. | Destination selection | Printed ticket |
+
 
 ## 3. Commands / tools used
 
